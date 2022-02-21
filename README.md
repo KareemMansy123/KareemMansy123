@@ -31,14 +31,14 @@
 |       **Repo**                                                                   |                     **Description**                                                                             |
 | ------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   [Register For Result](https://github.com/KareemMansy123/register-for-result)
-|  **Register for result** is very powerful library in android google has been switched startActivityForResult() to registerForActivityResult() so you can use this library to (get data from another activity , camira , mic , ATC.. with Clean , Testable and Changeable code.    
-
-
+|  **Register for result** is very powerful library in android google has been switched startActivityForResult() to registerForActivityResult() so you can use this library to (get data from another activity , camira , mic , ATC.. with Clean , Testable and Changeable code.                                     |
 
 ### Projects
 
+|       **Repo**                                                                   |                     **Description**                                                                             |
+| ------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   [Ktor](https://github.com/KareemMansy123/Ktor_Example)
-|  *Ktor Example** is an asynchronous open source framework for creating microservices and web applications. It was developed with Kotlin by Jetbrains. It’s easy to install and use, It’s extensible if you want to add a step to the execution pipeline. Its asynchronous property allows it to receive multiple requests thanks to coroutines and it is also multiplatform. with Clean , Testable and Changeable code. 
+*Ktor Example** is an asynchronous open source framework for creating microservices and web applications. It was developed with Kotlin by Jetbrains. It’s easy to install and use, It’s extensible if you want to add a step to the execution pipeline. Its asynchronous property allows it to receive multiple requests thanks to coroutines and it is also multiplatform. with Clean , Testable and Changeable code. 
 
 |   [App Architecture Offline Mode](https://github.com/KareemMansy123/AppArchitectureOflineMode)
 |  *App Architecture Offline Mode** When you use restful api and network disconnect you have to store your data locally to make your app faster and work on offline mode with Clean , Testable and Changeable code. 
