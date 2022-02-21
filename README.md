@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Mobile Apps Development
 - 🌱 I’m currently learning Flutter.
-- 💬 Ask me about Architecture , Design Patterns , Android , Flutter , OOP, , Kotlin, Dart , Java , Swift. 
+- 💬 Ask me about Architecture , Design Patterns , Android , Flutter , OOP, , Kotlin, Dart , Java . 
 - ⚡ Contributer at  [Open-Bytes](https://github.com/Open-Bytes) 
 - 📫 **How to reach me**: follow me from the below links :point_down: ,or Direct Call: +201029201029 , in addition to following me here.
 
