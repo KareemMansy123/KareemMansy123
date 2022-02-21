@@ -30,8 +30,8 @@
 
 |       **Repo**                                                                   |                     **Description**                                                                             |
 | ------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   [Register For Result](https://github.com/KareemMansy123/register-for-result)
-|  **Register for result** is very powerful library in android google has been switched startActivityForResult() to registerForActivityResult() so you can use this library to (get data from another activity , camira , mic , ATC.. with Clean , Testable and Changeable code.                                     |
+|   [Register For Result](https://github.com/KareemMansy123/register-for-result)   |  
+**Register for result** is very powerful library in android google has been switched startActivityForResult() to registerForActivityResult() so you can use this library to (get data from another activity , camira , mic , ATC.. with Clean , Testable and Changeable code.                                     |
 
 ### Projects
 
