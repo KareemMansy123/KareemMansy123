@@ -16,7 +16,9 @@
 <a href="https://github.com/KareemMansy123">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KareemMansy123&count_private=true&show_icons=true&theme=gruvbox&hide_border=false%22" />
 </a>
+
 <br />
+
 <a href="https://github.com/KareemMansy123">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemMansy123&layout=compact&theme=synthwave&hide_border=false" />
 </a>
